@@ -8,7 +8,7 @@
 import SwiftData
 
 @Model
-class Prosepect {
+class Prospect {
     var name: String
     var emailAdress: String
     var isContacted: Bool
